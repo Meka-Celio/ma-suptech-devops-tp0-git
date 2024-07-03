@@ -1,0 +1,4 @@
+1 - create git folder
+2 - add html and css files
+3 - test git commit
+4 - add another files and commit them
